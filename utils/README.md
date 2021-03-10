@@ -37,13 +37,12 @@ Homework
   Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
   GitHub
 
-  ## Tests
+  ## Test
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+  node index.js 
   Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
   node index.js 
   
-## Questions
-  
-  If you have any questions about the repo, open an issue or contact me directly at shayampatel@knights.ucf.edu. 
-  You can find more of my work at [undefined](https://github.com/undefined/).
+
   
   
